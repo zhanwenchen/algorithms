@@ -1,5 +1,9 @@
 '''
 Lexicographic Breadth-First Search (Lex-BFS)
+
+Originally published as
+Rose, D. J.; Tarjan, R. E.; Lueker, G. S. (1976),
+"Algorithmic aspects of vertex elimination on graphs", SIAM Journal on Computing
 '''
 def lex_bfs(graph, initial_ordering):
     '''
